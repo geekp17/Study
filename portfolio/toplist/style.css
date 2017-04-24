@@ -1,0 +1,31 @@
+* {
+  outline: 1px solid red !important;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-boc-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.title {
+  max-width: 1165px;
+  max-height: 300px;
+  padding-right: 25px;
+}
+
+.app {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.screenshot {
+  max-width: 460px;
+  padding: 25px;
+}
+
+.description {
+  max-width: 705px;
+  padding: 25pxs
+}
